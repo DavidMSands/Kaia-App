@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c261bc4c.css",
+    "main.js": "/static/js/main.59c1f628.js",
+    "static/media/Ask Kaia.svg": "/static/media/Ask Kaia.8fb0f3db92ff809563fff76447a769a7.svg",
+    "static/media/Kaia.svg": "/static/media/Kaia.b2d1a4830adcf94b9bf83078e5bc88a4.svg",
+    "index.html": "/index.html",
+    "main.c261bc4c.css.map": "/static/css/main.c261bc4c.css.map",
+    "main.59c1f628.js.map": "/static/js/main.59c1f628.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c261bc4c.css",
+    "static/js/main.59c1f628.js"
+  ]
+}
